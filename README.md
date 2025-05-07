@@ -1,3 +1,12 @@
+# Ujian Tengah Semester
+
+## Profil
+| Variable | Isi |
+| -------- | --- |
+| **Nama** | Bayu Aji Yuwono |
+| **NIM** | 312310492 |
+| **Kelas** | TI.23.A.5 |
+| **Mata Kuliah** | Pemrograman Web 2|
 
 # 🚀 Panduan Lengkap: Aplikasi Chat Sederhana dengan WebSocket
 
@@ -31,9 +40,8 @@ Lebih cepat dan efisien dibanding HTTP biasa.
 
 ### 2️⃣ Struktur Folder + Kode Lengkap
 
-```
 <img src="SS/1.png">
-```
+
 
 #### 📄 server.js
 
@@ -247,9 +255,7 @@ node server.js
 
 Saat dijalankan, tampilannya seperti ini:
 
-```
 <img src="SS/2.png">
-```
 
 Kalau kamu buka 2 browser/tab, pesan langsung muncul di semua tab secara real-time 🔥.
 
