@@ -32,7 +32,7 @@ Lebih cepat dan efisien dibanding HTTP biasa.
 ### 2️⃣ Struktur Folder + Kode Lengkap
 
 ```
-![Tampilan Chat](SS/1.png)
+<img src="SS/1.png">
 ```
 
 #### 📄 server.js
@@ -248,7 +248,7 @@ node server.js
 Saat dijalankan, tampilannya seperti ini:
 
 ```
-![Tampilan Chat](SS/2.png)
+<img src="SS/2.png">
 ```
 
 Kalau kamu buka 2 browser/tab, pesan langsung muncul di semua tab secara real-time 🔥.
